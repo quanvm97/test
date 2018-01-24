@@ -1,0 +1,16 @@
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\DemoTabbedPage.dll
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\DemoTabbedPage.pdb
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\DemoTabbedPage.csprojResolveAssemblyReference.cache
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\DemoTabbedPage.csproj.CoreCompileInputs.cache
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\DemoTabbedPage.MainPage.xaml.g.cs
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\DemoTabbedPage.App.xaml.g.cs
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\DemoTabbedPage.dll
+D:\Xamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\DemoTabbedPage.pdb
